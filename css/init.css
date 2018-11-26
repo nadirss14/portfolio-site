@@ -7,6 +7,10 @@ div {
     text-align: center;
 }
 .titulo-index {
-      color: aliceblue; 
-      
+      color: rgb(224, 151, 163); 
+}
+
+span {
+    color: rgb(77, 138, 192);
+    text-decoration-line: underline;    
 }
